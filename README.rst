@@ -49,6 +49,25 @@ Download Free Deep Learning Resource Guide
 .. raw:: html
 
    </div>
+   
+
+================================================
+Slack Group
+================================================
+
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="https://www.machinelearningmindset.com/slack-group/" target="_blank">
+  <img width="1033" height="350" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Course/blob/master/_img/0-welcome/joinslack.png"/>
+ </a>
+
+.. raw:: html
+
+   </div>
 
 ========================
 Introduction
@@ -98,7 +117,7 @@ Machine Learning Basics
 
 .. figure:: _img/intro.png
 .. _lrtutorial: docs/source/content/overview/linear-regression.rst
-.. _lrcode: code/overview/linear_regression
+.. _lrcode: https://github.com/machinelearningmindset/machine-learning-course/blob/master/code/overview/linear_regression/linearRegressionOneVariable.ipynb
 
 .. _overtutorial: docs/source/content/overview/overfitting.rst
 .. _overcode: code/overview/overfitting
